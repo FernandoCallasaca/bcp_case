@@ -1,4 +1,4 @@
-mora_60,dias_atraso_12_meses_antes,situacion_casa,edad,fecha_ingreso_empleo,antiguedad_tc_meses,producto_pasivo_12_meses_antes,ingreso_mensual,monto_linea_tc,monto_saldo_deudor_prom,score_aprob_tc,nro_veces_abono_12m_antes,zona_geografica,max_riesgos_12m_antes_aprob,nivel_educativo,edad_binned
+mora_60,dias_atraso_12_meses_antes,situacion_casa,edad,fecha_ingreso_empleo,antiguedad_tc_meses,producto_pasivo_12_meses_antes,ingreso_mensual,monto_linea_tc,monto_saldo_deudor_prom,score_aprob_tc,nro_veces_abono_12m_antes,zona_geografica,riesgos_sbs,nivel_educativo,edad_binned
 0,235,FAMILIAR,30,2007-06-01,93,5,3500.0,0.0,0.0,214,5,Lima,4,PROFESIONAL,joven
 0,18,FAMILIAR,32,2005-02-01,9,12,900.0,1824.67,1933.75,175,12,La Libertad,1,TECNICO,joven
 0,0,FAMILIAR,26,2003-08-01,8,2,2400.0,2797.38,188.29,187,0,Lima,0,PROFESIONAL,joven
